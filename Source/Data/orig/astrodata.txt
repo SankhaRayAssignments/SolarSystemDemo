@@ -1,0 +1,38 @@
+http://www.freemars.org/jeff/planets/Luna/Luna.htm
+http://en.wikipedia.org/wiki/Earth
+
+
+Ed = 12,742 km
+Md = 3,476 km
+Sd = 1,392,000 KM ( google "sun's diameter" )
+
+EM =  384,403 Km 
+
+ES = 152,097,701 km
+
+
+Er = 6371
+Mr = 1738
+Sr = 696000
+
+EM =  384,403 Km 
+
+ES = 152,097,701 km
+
+
+scale = 1.3149442673035537861285621930604e-6
+
+Er = 0.0084
+Mr = 0.0023
+Sr = 0.9152
+
+EM = 0.5054
+
+ES = 200
+
+cheats - 
+Er = 1.0f
+Mr = 0.33
+Sr = 10.0
+
+EM = 5.0f
